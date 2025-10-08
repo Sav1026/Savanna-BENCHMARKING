@@ -1,0 +1,7 @@
+Model,Avg Latency (s),Median Power of avg_tot_w (W) per query,Avg Power of avg_tot_w (W) per query,Accuracy (%),Total Energy (J) over all queries (∑(avg_tot_w×time))
+Gemma-3.1B,2.15,6.88,6.87,0.0,1468.87
+Gemma-3n_e2b,5.07,7.52,7.51,47.0,3685.08
+LLaVA-7B,11.49,8.04,8.01,56.0,9095.42
+LLaVA-Llama3,10.08,8.02,7.99,54.0,7912.27
+Qwen2.5VL-3B,4.21,7.69,7.68,76.0,3155.93
+Qwen2.5VL-7B,8.8,8.01,8.01,58.0,6892.83
