@@ -1,0 +1,101 @@
+question_id,latency_sec,correct,model_response,ground_truth,question_text,avg_tot_w,max_tot_w,avg_cpu_gpu_w,max_cpu_gpu_w,avg_soc_w,max_soc_w,avg_power_integrated_w,total_energy_j
+23,5.133,1,no,no,Is the number of buildings equal to the number of water areas?,9.02,10.04,3.93,4.48,1.70,1.86,9.03,45.12
+27,5.361,1,no,no,Is the number of residential buildings equal to the number of medium roads?,9.03,9.66,3.92,4.40,1.71,1.86,9.04,47.38
+48,4.352,1,no,no,Is the number of residential buildings equal to the number of roads?,8.88,9.78,3.79,4.40,1.71,1.86,8.89,37.35
+54,5.021,1,no,no,Is the number of buildings equal to the number of roads?,9.01,9.90,3.89,4.40,1.71,1.86,9.01,44.09
+64,5.306,1,no,no,Is the number of commercial buildings equal to the number of water areas?,9.04,9.90,3.94,4.44,1.71,1.86,9.05,46.98
+71,5.185,1,no,no,Is the number of roads equal to the number of water areas?,9.03,9.92,3.93,4.44,1.71,1.86,9.04,45.68
+82,5.238,1,no,no,Is the number of commercial buildings equal to the number of pitchs?,9.04,10.04,3.94,4.44,1.71,1.90,9.05,46.36
+88,5.291,1,no,no,Is the number of water areas equal to the number of rectangular buildings?,9.04,9.92,3.94,4.44,1.71,1.86,9.05,46.87
+93,5.139,1,no,no,Is the number of forests equal to the number of water areas?,9.03,9.94,3.93,4.48,1.71,1.86,9.04,45.19
+95,5.151,1,no,no,Is the number of roads equal to the number of commercial buildings?,9.06,10.04,3.96,4.48,1.70,1.86,9.07,45.51
+96,4.328,1,no,no,Is the number of roads equal to the number of forests?,8.94,9.92,3.85,4.48,1.70,1.86,8.95,37.67
+110,5.241,1,no,no,Is the number of residential buildings equal to the number of water areas?,9.01,10.04,3.91,4.40,1.71,1.90,9.02,46.32
+119,5.627,0,two,no,Is the number of water areas equal to the number of commercial buildings in the image?,9.01,9.94,3.93,4.40,1.70,1.86,9.02,49.46
+124,5.058,1,no,no,Is the number of buildings equal to the number of roads?,8.99,10.00,3.89,4.40,1.71,1.90,9.00,44.51
+125,5.244,1,no,no,Is the number of grass areas equal to the number of water areas?,8.98,9.96,3.90,4.40,1.70,1.86,8.99,46.04
+130,5.319,1,no,no,Is the number of water areas equal to the number of circular roads?,9.02,9.86,3.93,4.44,1.71,1.86,9.03,46.79
+132,5.141,1,no,no,Is the number of grass areas equal to the number of buildings?,9.06,10.00,3.91,4.44,1.74,1.90,9.07,45.39
+143,5.165,1,no,no,Is the number of residential buildings equal to the number of roads?,9.09,10.00,3.93,4.44,1.75,1.94,9.10,46.03
+147,5.487,1,no,no,Is the number of circular commercial buildings equal to the number of farmlands?,9.09,10.08,3.95,4.44,1.75,1.94,9.10,48.83
+149,5.257,1,no,no,Is the number of roads equal to the number of square residential buildings?,9.07,9.92,3.93,4.44,1.75,1.90,9.08,46.44
+166,5.404,1,no,no,Is the number of commercial buildings equal to the number of water areas?,9.06,9.86,3.92,4.44,1.75,1.90,9.07,47.57
+168,5.024,1,no,no,Is the number of buildings equal to the number of forests?,9.06,10.04,3.90,4.40,1.75,1.94,9.07,44.44
+169,6.180,1,no,no,Is the number of residential buildings equal to the number of water areas on the right of a  residential building?,9.11,9.96,3.99,4.44,1.75,1.90,9.12,55.13
+171,5.237,1,no,no,Is the number of water areas equal to the number of residential buildings?,9.07,10.04,3.92,4.40,1.75,1.94,9.08,46.43
+174,5.375,1,no,no,Is the number of commercial buildings equal to the number of farmlands?,9.05,10.04,3.91,4.40,1.75,1.94,9.06,47.50
+180,5.195,1,no,no,Is the number of buildings equal to the number of large roads?,9.05,9.90,3.90,4.40,1.75,1.94,9.06,45.83
+181,5.694,1,no,no,Is the number of farmlands equal to the number of residential buildings in the image?,9.07,10.00,3.94,4.40,1.75,1.94,9.08,50.47
+189,5.159,1,no,no,Is the number of roads equal to the number of water areas?,9.06,10.08,3.90,4.40,1.75,1.94,9.07,45.84
+219,5.521,1,no,no,Is the number of water areas equal to the number of forests in the image?,9.07,10.00,3.92,4.40,1.75,1.94,9.07,49.21
+228,5.077,1,no,no,Is the number of roads equal to the number of forests?,9.03,10.00,3.88,4.40,1.75,1.94,9.04,44.61
+234,5.286,1,no,no,Is the number of water areas equal to the number of grass areas?,9.09,10.00,3.94,4.44,1.75,1.94,9.10,47.14
+235,5.123,1,no,no,Is the number of forests equal to the number of water areas?,9.08,10.08,3.93,4.44,1.75,1.94,9.09,45.43
+240,5.129,1,no,no,Is the number of grass areas equal to the number of roads?,9.07,10.04,3.92,4.44,1.75,1.94,9.08,45.33
+254,5.028,1,no,no,Is the number of forests equal to the number of roads?,9.07,9.92,3.92,4.44,1.75,1.90,9.08,44.26
+257,5.404,1,no,no,Is the number of water areas equal to the number of small roads?,9.06,9.90,3.92,4.44,1.75,1.94,9.07,48.10
+258,4.300,1,no,no,Is the number of water areas equal to the number of roads?,8.95,9.96,3.82,4.40,1.75,1.90,8.96,37.09
+263,6.529,1,no,no,Is the number of roads equal to the number of forests on the left of a  medium water area in the image?,9.09,9.94,3.97,4.40,1.75,1.90,9.09,58.17
+268,4.695,1,no,no,Is the number of roads equal to the number of water areas?,9.04,10.28,3.88,4.44,1.76,2.02,9.05,41.53
+271,5.262,0,no,yes,Is the number of circular forests equal to the number of water areas?,9.08,10.00,3.94,4.48,1.75,1.90,9.09,46.53
+275,5.378,1,no,no,Is the number of roads equal to the number of rectangular water areas?,9.06,9.74,3.91,4.40,1.75,1.90,9.07,47.53
+286,6.071,1,no,no,Is the number of forests equal to the number of water areas on the right of a  road?,9.06,10.00,3.93,4.40,1.75,1.94,9.07,53.89
+297,5.246,1,no,no,Is the number of water areas equal to the number of circular roads?,9.07,10.04,3.92,4.40,1.75,1.94,9.08,46.53
+321,5.187,1,no,no,Is the number of roads equal to the number of commercial buildings?,9.01,10.04,3.88,4.40,1.75,1.94,9.02,45.62
+324,5.182,1,no,no,Is the number of water areas equal to the number of buildings?,9.06,9.96,3.91,4.40,1.75,1.94,9.07,46.00
+327,5.200,1,no,no,Is the number of residential buildings equal to the number of roads?,9.06,10.04,3.91,4.44,1.75,1.94,9.07,46.14
+357,4.519,1,no,no,Is the number of residential buildings equal to the number of water areas?,8.94,9.88,3.82,4.44,1.75,1.90,8.95,39.24
+370,5.134,1,no,no,Is the number of buildings equal to the number of grass areas?,9.05,10.04,3.91,4.44,1.75,1.90,9.06,45.24
+374,5.353,1,no,no,Is the number of commercial buildings equal to the number of square grass areas?,9.09,10.08,3.95,4.44,1.75,1.94,9.10,47.76
+382,5.388,1,no,no,Is the number of small water areas equal to the number of commercial buildings?,9.07,10.00,3.93,4.44,1.75,1.90,9.08,47.59
+392,5.425,1,no,no,Is the number of water areas equal to the number of circular commercial buildings?,9.07,10.04,3.93,4.44,1.75,1.94,9.07,48.11
+394,5.329,1,no,no,Is the number of commercial buildings equal to the number of grass areas?,9.07,9.96,3.94,4.48,1.75,1.90,9.08,47.00
+397,5.207,1,no,no,Is the number of forests equal to the number of water areas?,9.03,9.96,3.88,4.40,1.75,1.90,9.04,45.70
+399,5.457,1,no,no,Is the number of square roads equal to the number of rectangular water areas?,9.06,9.82,3.92,4.40,1.75,1.90,9.07,48.05
+422,5.766,1,no,no,Is the number of farmlands equal to the number of water areas in the image?,9.08,9.82,3.95,4.40,1.75,1.90,9.08,50.97
+449,5.226,1,no,no,Is the number of water areas equal to the number of roads?,9.03,9.86,3.89,4.40,1.75,1.94,9.04,46.21
+456,4.689,0,two,no,Is the number of water areas equal to the number of medium nature reserves?,8.93,9.62,3.81,4.40,1.75,1.90,8.94,40.58
+465,4.573,1,no,no,Is the number of water areas equal to the number of farmlands?,8.93,10.00,3.81,4.40,1.75,1.94,8.94,39.96
+466,5.499,1,no,no,Is the number of roads equal to the number of water areas in the image?,9.09,10.00,3.96,4.44,1.75,1.94,9.10,48.97
+477,5.302,1,no,no,Is the number of farmlands equal to the number of roads?,9.06,10.12,3.92,4.44,1.75,1.94,9.07,47.02
+481,5.156,1,no,no,Is the number of rectangular orchards equal to the number of roads?,9.09,9.96,3.93,4.44,1.75,1.90,9.09,45.59
+483,5.157,1,no,no,Is the number of grass areas equal to the number of roads?,9.06,10.00,3.92,4.44,1.75,1.90,9.07,45.54
+486,5.298,1,no,no,Is the number of nature reserves equal to the number of water areas?,9.08,9.92,3.93,4.44,1.75,1.90,9.09,47.00
+490,5.212,1,no,no,Is the number of water areas equal to the number of forests?,9.06,9.90,3.91,4.44,1.75,1.90,9.07,46.05
+491,5.308,1,no,no,Is the number of grass areas equal to the number of rectangular roads?,9.06,10.04,3.92,4.44,1.75,1.94,9.07,46.95
+493,5.554,1,no,no,Is the number of square grass areas equal to the number of farmlands?,9.05,9.94,3.92,4.40,1.75,1.94,9.06,49.31
+497,4.988,1,no,no,Is the number of roads equal to the number of forests?,9.06,10.08,3.91,4.40,1.75,1.94,9.07,44.21
+522,5.391,1,no,no,Is the number of farmlands equal to the number of water areas?,9.06,10.08,3.92,4.40,1.75,1.94,9.07,47.91
+528,5.249,1,no,no,Is the number of residential buildings equal to the number of village greens?,9.06,10.04,3.91,4.40,1.75,1.94,9.06,46.43
+533,5.267,1,no,no,Is the number of large buildings equal to the number of cemeterys?,9.04,10.00,3.90,4.40,1.75,1.94,9.05,46.41
+550,5.305,1,no,no,Is the number of grass areas equal to the number of commercial buildings?,9.05,9.78,3.91,4.40,1.75,1.90,9.06,46.92
+552,5.299,1,no,no,Is the number of roads equal to the number of square grass areas?,9.03,9.97,3.89,4.40,1.75,1.94,9.04,46.90
+560,5.549,1,no,no,Is the number of buildings equal to the number of grass areas in the image?,9.06,9.90,3.92,4.40,1.75,1.90,9.06,49.12
+568,5.465,1,no,no,Is the number of medium cemeterys equal to the number of water areas?,9.02,9.78,3.89,4.40,1.75,1.90,9.03,48.01
+571,5.193,1,no,no,Is the number of grass areas equal to the number of buildings?,9.08,9.96,3.93,4.44,1.75,1.90,9.08,45.98
+573,5.124,1,no,no,Is the number of water areas equal to the number of roads?,9.07,10.08,3.92,4.44,1.75,1.94,9.08,45.35
+576,5.349,1,no,no,Is the number of square commercial buildings equal to the number of residential buildings?,9.09,10.00,3.95,4.44,1.75,1.90,9.10,47.06
+577,5.308,1,no,no,Is the number of medium forests equal to the number of residential buildings?,9.09,9.94,3.94,4.44,1.75,1.90,9.10,47.10
+583,6.083,1,no,no,Is the number of commercial buildings at the bottom of a  parking equal to the number of forests?,9.10,10.00,3.98,4.44,1.75,1.94,9.11,54.45
+584,5.349,1,no,no,Is the number of commercial buildings equal to the number of water areas in the image?,9.09,10.12,3.94,4.44,1.75,1.94,9.10,47.69
+591,5.100,1,no,no,Is the number of buildings equal to the number of roads?,9.05,9.90,3.89,4.40,1.75,1.94,9.06,45.21
+594,5.375,1,no,no,Is the number of water areas equal to the number of commercial buildings?,9.04,9.86,3.90,4.44,1.74,1.90,9.05,47.46
+614,5.119,1,no,no,Is the number of roads equal to the number of commercial buildings?,9.05,10.00,3.90,4.40,1.75,1.94,9.06,45.30
+624,5.372,0,two,no,Is the number of square water areas equal to the number of commercial buildings?,9.05,10.00,3.91,4.40,1.75,1.90,9.05,47.48
+629,5.130,1,no,no,Is the number of large roads equal to the number of forests?,9.04,10.00,3.90,4.40,1.75,1.94,9.05,45.29
+634,5.557,1,no,no,Is the number of residential buildings equal to the number of roads in the image?,9.04,9.96,3.91,4.40,1.75,1.94,9.05,49.13
+636,5.393,1,no,no,Is the number of buildings equal to the number of water areas?,9.06,10.32,3.90,4.40,1.76,2.02,9.07,47.56
+638,5.725,1,no,no,Is the number of commercial buildings equal to the number of water areas in the image?,9.06,9.90,3.92,4.40,1.75,1.94,9.06,50.88
+649,5.124,1,no,no,Is the number of forests equal to the number of commercial buildings?,9.07,10.08,3.93,4.44,1.75,1.94,9.08,45.42
+654,5.188,1,no,no,Is the number of commercial buildings equal to the number of roads?,9.07,9.96,3.92,4.44,1.75,1.94,9.08,46.02
+656,5.220,0,two,no,Is the number of water areas equal to the number of buildings?,9.05,10.08,3.91,4.44,1.75,1.94,9.06,46.37
+659,5.229,1,no,no,Is the number of grass areas equal to the number of residential buildings?,9.08,10.12,3.93,4.44,1.75,1.94,9.08,46.45
+660,5.206,1,no,no,Is the number of commercial buildings equal to the number of forests?,9.06,9.90,3.91,4.40,1.75,1.94,9.07,46.33
+679,5.285,1,no,no,Is the number of roads equal to the number of small residential buildings?,9.09,10.16,3.94,4.48,1.75,1.94,9.10,47.11
+688,5.262,1,no,no,Is the number of residential buildings equal to the number of parkings?,9.08,10.04,3.93,4.44,1.75,1.94,9.09,46.55
+692,5.384,1,no,no,Is the number of commercial buildings equal to the number of rectangular roads?,9.02,9.90,3.88,4.40,1.75,1.90,9.03,47.39
+698,5.158,1,no,no,Is the number of water areas equal to the number of roads?,9.04,9.94,3.89,4.40,1.75,1.90,9.05,45.20
+719,5.121,1,no,no,Is the number of residential buildings equal to the number of roads?,9.05,10.04,3.90,4.40,1.75,1.94,9.06,45.25
+733,4.398,1,no,no,Is the number of residential buildings equal to the number of water areas?,8.95,10.00,3.82,4.40,1.75,1.94,8.96,38.28
+735,5.137,1,no,no,Is the number of commercial buildings equal to the number of roads?,9.04,10.00,3.89,4.40,1.75,1.90,9.05,45.23
+741,5.542,1,no,no,Is the number of forests equal to the number of residential buildings in the image?,9.06,10.04,3.92,4.40,1.75,1.94,9.07,49.18
